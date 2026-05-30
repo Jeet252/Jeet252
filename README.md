@@ -121,7 +121,6 @@ Full-stack inventory tracking application.
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/jeet-nakrani-297a59285](http://www.linkedin.com/in/jeet-nakrani-297a59285)
-* GitHub: https://github.com/Jeet252
 * Email: [jeetnakrani2002@gmail.com](mailto:jeetnakrani2002@gmail.com)
 
 ---
